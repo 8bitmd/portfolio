@@ -15,8 +15,9 @@ html {
 a {
   text-decoration: none;
 }
-a:hover {
-  text-shadow: 0 0 4px white;
+
+.decoration {
+  text-shadow: 0 0 10px orange;
 }
 
 header {
@@ -36,6 +37,9 @@ header nav {
   flex-wrap: wrap;
   gap: 15px;
   user-select: none;
+}
+header nav a:hover {
+  text-shadow: 0 0 4px white;
 }
 @media (max-width: 500px) {
   header nav {
@@ -60,12 +64,40 @@ h2:before {
   content: "> ";
 }
 
-.decoration {
-  text-shadow: 0 0 10px orange;
-}
-
 section h2:not(:first-of-type) {
   margin-top: 60px;
+}
+
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  gap: 25px;
+}
+.projects .project-card {
+  border-radius: 20px;
+  border: solid #f2d30c;
+  padding: 15px;
+}
+.projects .project-card_title {
+  font-size: 1.3em;
+  line-height: 0;
+}
+.projects .project-card_description {
+  font-size: 0.9em;
+  line-height: 1;
+}
+.projects .project-card_tools {
+  display: flex;
+  gap: 5px;
+}
+.projects .project-card_tools p {
+  font-size: 0.9em;
+  padding: 7px 15px 7px 15px;
+  border: solid 2px #f2d30c;
+  border-radius: 15px;
+  background-color: #333030;
 }
 
 /*# sourceMappingURL=style.css.map */
