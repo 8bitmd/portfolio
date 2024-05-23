@@ -68,6 +68,13 @@ section h2:not(:first-of-type) {
   margin-top: 60px;
 }
 
+.accueil a:hover {
+  text-shadow: 0 0 4px white;
+}
+.accueil p {
+  color: white;
+}
+
 .projects {
   display: flex;
   flex-wrap: wrap;
