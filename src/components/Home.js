@@ -1,4 +1,7 @@
+import DocumentTitle from "./DocumentTitle";
+
 export default function Home() {
+    DocumentTitle("8bitmd")
     return (
         <section>
             <h2>Je suis <span className={"decoration"}>8bitmd</span>, Bruno Igal Tumedei dans la vraie vie.</h2>

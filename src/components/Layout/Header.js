@@ -3,7 +3,9 @@ import {Link} from "react-router-dom";
 export default function Header() {
     return (
         <header>
-            <h1 className={"decoration"}>8bitmd</h1>
+            <Link to={"/"}>
+                <h1 className={"decoration"}>8bitmd</h1>
+            </Link>
             <nav>
                 <Link to={"/projets"}><span aria-hidden={"true"}>[</span>projets<span aria-hidden={"true"}>]</span></Link>
                 <a href={"https://github.com/8bitmd"}><span aria-hidden={"true"}>[</span>github<span aria-hidden={"true"}>]</span></a>

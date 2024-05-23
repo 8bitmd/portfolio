@@ -14,39 +14,17 @@
       <change afterPath="$PROJECT_DIR$/../p8_kasa/src/components/Layout.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../p8_kasa/src/components/NotFound.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/fira.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/silkscreen-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/silkscreen-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/style.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/style.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Formation/P4 - OhMyFood/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Project.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -76,7 +54,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "test",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -131,7 +109,7 @@
       <updated>1716292746565</updated>
       <workItem from="1716292747568" duration="6510000" />
       <workItem from="1716392256535" duration="114000" />
-      <workItem from="1716480812262" duration="3662000" />
+      <workItem from="1716480812262" duration="7501000" />
     </task>
     <servers />
   </component>
