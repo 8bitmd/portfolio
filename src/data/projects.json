@@ -12,7 +12,7 @@
   },
   {
     "title": "Booki",
-    "description": "Projet #3 pour OpenClassrooms.",
+    "description": "Un site pour trouver l'hébergement idéal pour des vacances de rêve. Front-end uniquement.",
     "cover": "",
     "tools": [
       "HTML",
@@ -22,7 +22,7 @@
   },
   {
     "title": "ohmyfood",
-    "description": "Projet #4 pour OpenClassrooms.",
+    "description": "Un site de restauration gastronomique qui permet aux utilisateurs de composer le menu de leur repas pour que les plats soient prêts à leur arrivée au restaurant. Front-end uniquement.",
     "cover": "",
     "tools": [
       "HTML",
@@ -31,19 +31,8 @@
     "link": "https://github.com/8bitmd/P4_ohmyfood"
   },
   {
-    "title": "Print It!",
-    "description": "Projet #5 pour OpenClassrooms.",
-    "cover": "",
-    "tools": [
-      "JavaScript",
-      "HTML",
-      "CSS"
-    ],
-    "link": "https://github.com/8bitmd/P5_PrintIt"
-  },
-  {
     "title": "Sophie Bluel",
-    "description": "Projet #6 pour OpenClassrooms.",
+    "description": "Un site portfolio pour Sophie Bluel, architecte d'intérieur. Front-end uniquement.",
     "cover": "",
     "tools": [
       "JavaScript",
@@ -54,7 +43,7 @@
   },
   {
     "title": "Kasa",
-    "description": "Projet #8 pour OpenClassrooms.",
+    "description": "Un site de location d'appartements entre particuliers. Front-end uniquement.",
     "cover": "",
     "tools": [
       "React",
