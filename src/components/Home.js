@@ -14,7 +14,7 @@ export default function Home() {
             <p></p>
             <h2>Contact</h2>
             <p>Il n'y a rien de plus simple pour me contacter.</p>
-            <p><a href={"https://www.linkedin.com/in/brunotumedei/"}>Cliquez ici</a> pour accéder à mon LinkedIn, mais si vous préférez les e-mails <a href={"mailto:bruno@tumedei.dev"}>c'est par là</a> (bruno@tumedei.dev).</p>
+            <p><a href={"https://www.linkedin.com/in/brunotumedei/"} target={"_blank"}>Cliquez ici</a> pour accéder à mon LinkedIn, mais si vous préférez les e-mails <a href={"mailto:bruno@tumedei.dev"}>c'est par là</a> (bruno@tumedei.dev).</p>
         </section>
     )
 }
