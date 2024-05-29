@@ -16,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/../p8_kasa/src/components/NotFound.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../portfolio.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Formation/P4 - OhMyFood/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +89,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
       </set>
     </attachedChunks>
   </component>
@@ -108,6 +107,7 @@
       <workItem from="1716480812262" duration="8007000" />
       <workItem from="1716497273605" duration="9068000" />
       <workItem from="1716728453243" duration="2000" />
+      <workItem from="1716993885394" duration="1695000" />
     </task>
     <servers />
   </component>
