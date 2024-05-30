@@ -26,7 +26,7 @@ export default function Home() {
             <ul>
                 <li>Anglais - bilingue</li>
                 <li>Français - bilingue</li>
-                <li>Espagnol - Langue maternelle</li>
+                <li>Espagnol - langue maternelle</li>
                 <li>Italien - langue maternelle</li>
             </ul>
             <h2>Mes projets</h2>
