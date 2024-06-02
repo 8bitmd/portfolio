@@ -51,5 +51,17 @@
       "Sass"
     ],
     "link": "https://github.com/8bitmd/P8_Kasa"
+  },
+  {
+    "title": "Argent Bank",
+    "description": "Intégration du site Argent Bank, une banque en ligne. Front-end uniquement.",
+    "cover": "",
+    "tools": [
+      "React",
+      "React Router",
+      "React Redux",
+      "Sass"
+    ],
+    "link": "https://github.com/8bitmd/P11_ArgentBank"
   }
 ]
