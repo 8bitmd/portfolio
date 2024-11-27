@@ -1,16 +1,5 @@
 [
   {
-    "title": "Mon portfolio",
-    "description": "Vous y êtes!",
-    "cover": "",
-    "tools": [
-      "React",
-      "React Router",
-      "Sass"
-    ],
-    "link": "https://tumedei.dev"
-  },
-  {
     "title": "Booki",
     "description": "Un site pour trouver l'hébergement idéal pour des vacances de rêve. Front-end uniquement.",
     "cover": "",
@@ -59,9 +48,31 @@
     "tools": [
       "React",
       "React Router",
-      "React Redux",
+      "Redux",
       "Sass"
     ],
     "link": "https://github.com/8bitmd/P11_ArgentBank"
+  },
+  {
+    "title": "Mon portfolio",
+    "description": "Simple et épuré, en constante évolution.",
+    "cover": "",
+    "tools": [
+      "React",
+      "React Router",
+      "Sass"
+    ],
+    "link": "https://tumedei.dev"
+  },
+  {
+    "title": "8notes - EN CONSTRUCTION",
+    "description": "Une application de prise de notes simple permettant aux utilisateurs de créer, consulter et supprimer des notes textuelles, avec une interface épurée.",
+    "cover": "",
+    "tools": [
+      "JavaScript",
+      "HTML",
+      "Sass"
+    ],
+    "link": "/"
   }
 ]

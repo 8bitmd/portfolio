@@ -5,7 +5,7 @@ const data = require("../../data/projects.json")
 export default function ProjectCard() {
     return (
         <div className={"projects"}>
-            {data.map((project) => (
+            {data.toReversed().map((project) => (
                 <a href={project.link}>
                     <div className={"project-card"}>
                         <p className={"project-card_title"}>{project.title}</p>
