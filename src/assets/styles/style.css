@@ -130,4 +130,11 @@ section h2:not(:first-of-type) {
   text-shadow: 0 0 4px white;
 }
 
+footer {
+  margin-top: 3rem;
+}
+footer p {
+  text-align: center;
+}
+
 /*# sourceMappingURL=style.css.map */
