@@ -68,27 +68,45 @@ section h2:not(:first-of-type)
   display: flex
   flex-wrap: wrap
   flex-direction: column
+  justify-items: center
   justify-content: center
+  align-items: center
   gap: 25px
   .project-card
     border-radius: 20px
     border: solid $yellow
     padding: 15px
+    width: 70vw
+    background-color: #181818
     &_title
       font-size: 1.3em
       line-height: 0
+      @media (max-width: 500px)
+        text-align: center
     &_description
       font-size: 0.9em
       line-height: 1
+      color: #f5f5f5
+      margin-left: 10px
+      @media (max-width: 500px)
+        margin-left: 0
     &_tools
       display: flex
+      justify-content: right
       gap: 5px
+      flex-wrap: wrap
+      margin-top: 25px
+      margin-bottom: 10px
+      @media (max-width: 500px)
+        justify-content: center
       p
         font-size: 0.9em
         padding: 7px 15px 7px 15px
         border: solid 2px $yellow
         border-radius: 15px
-        background-color: #333030
+        background-color: #000000
+        white-space: nowrap
+        margin: 0
 
 .nomatch
   display: flex

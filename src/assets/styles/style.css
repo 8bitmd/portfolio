@@ -87,32 +87,59 @@ section h2:not(:first-of-type) {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
+  justify-items: center;
   justify-content: center;
+  align-items: center;
   gap: 25px;
 }
 .projects .project-card {
   border-radius: 20px;
   border: solid #f2d30c;
   padding: 15px;
+  width: 70vw;
+  background-color: #181818;
 }
 .projects .project-card_title {
   font-size: 1.3em;
   line-height: 0;
 }
+@media (max-width: 500px) {
+  .projects .project-card_title {
+    text-align: center;
+  }
+}
 .projects .project-card_description {
   font-size: 0.9em;
   line-height: 1;
+  color: #f5f5f5;
+  margin-left: 10px;
+}
+@media (max-width: 500px) {
+  .projects .project-card_description {
+    margin-left: 0;
+  }
 }
 .projects .project-card_tools {
   display: flex;
+  justify-content: right;
   gap: 5px;
+  flex-wrap: wrap;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+@media (max-width: 500px) {
+  .projects .project-card_tools {
+    justify-content: center;
+  }
 }
 .projects .project-card_tools p {
   font-size: 0.9em;
   padding: 7px 15px 7px 15px;
   border: solid 2px #f2d30c;
   border-radius: 15px;
-  background-color: #333030;
+  background-color: #000000;
+  white-space: nowrap;
+  margin: 0;
 }
 
 .nomatch {
