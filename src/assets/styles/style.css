@@ -17,7 +17,7 @@ a {
 }
 
 em {
-  font-size: 0.9em;
+  font-size: 0.75em;
 }
 
 .decoration {
@@ -64,12 +64,17 @@ header h1 {
   }
 }
 
+h2 {
+  color: #f2740c;
+}
+
 h2:before {
   content: "> ";
 }
 
 h3 {
   margin-left: 0.6em;
+  color: #f2a50c;
 }
 
 section h2:not(:first-of-type) {
@@ -81,6 +86,10 @@ section h2:not(:first-of-type) {
 }
 .accueil p, .accueil li {
   color: white;
+  text-align: justify;
+}
+.accueil .langages, .accueil .frameworks {
+  margin-bottom: 25px;
 }
 
 .projects {

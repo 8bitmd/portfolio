@@ -11,12 +11,12 @@ export default function Home() {
             <p>Ici, vous pourrez découvrir une sélection des projets sur lesquels j’ai travaillé, ou sur lesquels je suis actuellement impliqué.</p>
             <h2>Compétences et parcours</h2>
             <h3>Formation Intégrateur Web - <em>OpenClassrooms</em></h3>
-            <ul>
-                <li>Langages front-end:
+            <ul className={"competences-parcours"}>
+                <li className={"langages"}>Langages front-end:
                 <ul>
                     <li>HTML, JavaScript, CSS/Sass</li>
                 </ul></li>
-                <li>Frameworks:
+                <li className={"frameworks"}>Frameworks:
                     <ul>
                         <li>React (avec Router, Redux)</li>
                     </ul>
@@ -31,7 +31,7 @@ export default function Home() {
             </ul>
             <h3>Licence LEA anglais/espagnol - <em>Université Paris Cité, University of Birmingham</em></h3>
             <h3>Baccalauréat L (anglais renforcé) - <em>Lycée Lakanal, Sceaux</em></h3>
-            <h3>Langues</h3>
+            <h2>Langues</h2>
             <ul>
                 <li>Anglais - bilingue, avec une expérience de vie et d'études en environnement anglophone</li>
                 <li>Français - bilingue, langue d'usage quotidien</li>

@@ -17,7 +17,7 @@ a
   text-decoration: none
 
 em
-  font-size: 0.9em
+  font-size: 0.75em
 
 .decoration
   text-shadow: 0 0 10px orange
@@ -49,11 +49,14 @@ header
     @media (max-width: 500px)
       font-size: 2em
 
+h2
+  color: #f2740c
 h2:before
   content: "> "
 
 h3
   margin-left: 0.6em
+  color: #f2a50c
 
 section h2:not(:first-of-type)
   margin-top: 60px
@@ -63,6 +66,9 @@ section h2:not(:first-of-type)
     text-shadow: 0 0 4px white
   p, li
     color: white
+    text-align: justify
+  .langages, .frameworks
+    margin-bottom: 25px
 
 .projects
   display: flex
