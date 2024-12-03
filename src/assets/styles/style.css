@@ -111,6 +111,7 @@ section h2:not(:first-of-type) {
 .projects .project-card_title {
   font-size: 1.3em;
   line-height: 0;
+  color: #f2a50c;
 }
 @media (max-width: 500px) {
   .projects .project-card_title {
