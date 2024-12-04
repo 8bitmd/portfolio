@@ -65,7 +65,19 @@
     "link": "https://tumedei.dev"
   },
   {
-    "title": "8notes - EN CONSTRUCTION",
+    "title": "Chorizo Online - EN COURS",
+    "description": "Une version web du jeu de cartes uruguayen, permettant de jouer en ligne avec des amis ou contre l’ordinateur.",
+    "cover": "",
+    "tools": [
+      "React",
+      "React Router",
+      "Redux",
+      "Sass"
+    ],
+    "link": "https://tumedei.dev"
+  },
+  {
+    "title": "8notes - EN COURS",
     "description": "Une application de prise de notes simple permettant aux utilisateurs de créer, consulter et supprimer des notes textuelles, avec une interface épurée.",
     "cover": "",
     "tools": [
