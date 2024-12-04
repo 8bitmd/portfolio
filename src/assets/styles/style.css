@@ -14,6 +14,7 @@ html {
 
 a {
   text-decoration: none;
+  position: relative;
 }
 
 em {
@@ -42,11 +43,15 @@ header nav {
   gap: 15px;
   user-select: none;
 }
+header nav a {
+  transition: all 0.1s ease;
+}
 header nav a:hover {
-  text-shadow: 0 0 4px white;
+  transform: scale(1.1);
+  color: #fff;
 }
 @media (max-width: 500px) {
-  header nav {
+  header nav a {
     line-height: 0.1;
     justify-content: center;
     row-gap: 30px;

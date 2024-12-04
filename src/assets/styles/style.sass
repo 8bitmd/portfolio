@@ -15,6 +15,7 @@ html
 
 a
   text-decoration: none
+  position: relative
 
 em
   font-size: 0.75em
@@ -30,17 +31,25 @@ header
     flex-direction: column
     gap: 0
     margin-bottom: 70px
+
   nav
     display: flex
     flex-wrap: wrap
     gap: 15px
     user-select: none
-    a:hover
-        text-shadow: 0 0 4px white
-    @media (max-width: 500px)
-      line-height: 0.1
-      justify-content: center
-      row-gap: 30px
+
+    a
+      transition: all 0.1s ease
+
+      &:hover
+        transform: scale(1.1)
+        color: #fff
+
+      @media (max-width: 500px)
+        line-height: 0.1
+        justify-content: center
+        row-gap: 30px
+
   h1
     color: $yellow
     font-family: Silkscreen, monospace
@@ -51,6 +60,7 @@ header
 
 h2
   color: #f2740c
+
 h2:before
   content: "> "
 
@@ -64,11 +74,14 @@ section h2:not(:first-of-type)
 .accueil
   width: 70vw
   margin: auto
+
   a:hover
     text-shadow: 0 0 4px white
+
   p, li
     color: white
     text-align: justify
+
   .langages, .frameworks
     margin-bottom: 25px
 
@@ -80,18 +93,21 @@ section h2:not(:first-of-type)
   justify-content: center
   align-items: center
   gap: 25px
+
   .project-card
     border-radius: 20px
     border: solid $yellow
     padding: 15px
     width: 70vw
     background-color: #181818
+
     &_title
       font-size: 1.3em
       line-height: 0
       color: #f2a50c
       @media (max-width: 500px)
         text-align: center
+
     &_description
       font-size: 0.9em
       line-height: 1
@@ -99,6 +115,7 @@ section h2:not(:first-of-type)
       margin-left: 10px
       @media (max-width: 500px)
         margin-left: 0
+
     &_tools
       display: flex
       justify-content: right
@@ -108,6 +125,7 @@ section h2:not(:first-of-type)
       margin-bottom: 10px
       @media (max-width: 500px)
         justify-content: center
+
       p
         font-size: 0.9em
         padding: 7px 15px 7px 15px
@@ -123,13 +141,16 @@ section h2:not(:first-of-type)
   flex-direction: column
   text-align: center
   line-height: 0.8
+
   h1
     font-size: 8em
     font-family: Silkscreen, monospace
+
   a:hover
     text-shadow: 0 0 4px white
 
 footer
   margin-top: 3rem
+
   p
     text-align: center
