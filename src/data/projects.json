@@ -62,16 +62,15 @@
       "React Router",
       "Sass"
     ],
-    "link": "https://tumedei.dev"
+    "link": "https://github.com/8bitmd/scorizo"
   },
   {
-    "title": "Chorizo Online - EN COURS",
-    "description": "Une version web du jeu de cartes uruguayen, permettant de jouer en ligne avec des amis ou contre l’ordinateur.",
+    "title": "Scorizo",
+    "description": "Un compteur de points pratique pour Chorizo, le jeu de cartes traditionnel uruguayen.",
     "cover": "",
     "tools": [
-      "React",
-      "React Router",
-      "Redux",
+      "JavaScript",
+      "HTML",
       "Sass"
     ],
     "link": "https://tumedei.dev"
